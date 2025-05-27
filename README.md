@@ -50,4 +50,4 @@ Esta seção apresenta o resultado prático dos meus estudos referentes ao **Cur
 
 Ao concluir o **Curso de Python – Módulo Básico**, tive a satisfação de receber o **Certificado de Conclusão**. Este documento digital, que pode ser visualizado abaixo, não apenas atesta a conclusão bem-sucedida de todas as etapas, mas também reflete a dedicação e o aprofundamento nos conceitos apresentados neste curso.
 
-![A imagem apresenta o Certificado de Conclusão do Curso de Python – Módulo Básico](https://1drv.ms/i/c/882FDB2A38217CE8/IQSE-EV1Fo3sS6ATkFQhsS3gAYWDGWPWC-KBc5-NqVmWeuU?height=1024)
+<img src="https://github.com/user-attachments/assets/23a8ef36-5f08-400d-85ec-27be6a734956" alt="A imagem apresenta o Certificado de Conclusão do Curso de Python – Módulo Básico" width="50%">
